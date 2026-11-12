@@ -30,6 +30,8 @@ I enjoy building projects, experimenting with new technologies, and understandin
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,git,linux,docker,vscode" />
 </p>
 
+---
+
 ### GitHub Statistics
 
 <div align="center">
@@ -44,11 +46,33 @@ I enjoy building projects, experimenting with new technologies, and understandin
 
 </div>
 
-### Contribution Activity
+---
+
+### Contribution Garden
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-green.svg" width="100%" alt="Green contribution snake" />
+
+<p>
+  <img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-pink.svg" width="49%" alt="Pink contribution snake" />
+  <img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-cyan.svg" width="49%" alt="Cyan contribution snake" />
+</p>
+
+</div>
+
+### A Little Visitor
+
+<div align="center">
+
+```text
+ /\_/\
+( o.o )  just a developer passing by
+ > ^ <
+
+  .  *    .     *
+     *  .    .
+```
 
 </div>
 
@@ -56,6 +80,8 @@ I enjoy building projects, experimenting with new technologies, and understandin
 
 <div align="center">
 
-*Less talking, more building.*
+`made with curiosity` · `powered by creativity`
+
+**Less talking, more building.**
 
 </div>
