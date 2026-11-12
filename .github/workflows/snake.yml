@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate Contribution Garden
 
 on:
   schedule:
@@ -14,15 +14,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Generate Contribution Snakes
         uses: Platane/snk@v3
         with:
           github_user_name: PT-FLAYY
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-green.svg?palette=github-dark&color_snake=%23a6e3a1
+            dist/snake-pink.svg?palette=github-dark&color_snake=%23f38ba8
+            dist/snake-cyan.svg?palette=github-dark&color_snake=%2389dceb
 
-      - name: Deploy Snake
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
