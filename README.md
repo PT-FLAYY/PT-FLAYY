@@ -48,18 +48,17 @@ I enjoy building projects, experimenting with new technologies, and understandin
 
 ---
 
-### Contribution Garden
+
+<h3>Contribution Activity</h3>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-green.svg" width="100%" alt="Green contribution snake" />
-
-<p>
-  <img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-pink.svg" width="49%" alt="Pink contribution snake" />
-  <img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/snake-cyan.svg" width="49%" alt="Cyan contribution snake" />
-</p>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/PT-FLAYY/PT-FLAYY/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake">
+  </picture>
 </div>
+
 
 ### A Little Visitor
 
