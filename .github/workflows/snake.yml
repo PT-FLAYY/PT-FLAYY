@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Contribution Snakes
+      - name: Generate Snakes
         uses: Platane/snk@v3
         with:
           github_user_name: PT-FLAYY
@@ -23,7 +23,7 @@ jobs:
             dist/snake-pink.svg?palette=github-dark&color_snake=%23f38ba8
             dist/snake-cyan.svg?palette=github-dark&color_snake=%2389dceb
 
-      - name: Deploy to Output Branch
+      - name: Deploy SVG
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
